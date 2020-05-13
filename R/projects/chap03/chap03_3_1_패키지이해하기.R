@@ -22,4 +22,8 @@ qplot(data = mpg, x = drv, y = hwy, geom = "boxplot")
 
 qplot(data = mpg, x = drv, y = hwy, geom = "boxplot", colour = drv)
 
+data(mpg)
+mpg
 
+?ggplot2
+help(qplot)
