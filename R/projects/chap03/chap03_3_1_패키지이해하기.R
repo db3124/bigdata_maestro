@@ -25,5 +25,6 @@ qplot(data = mpg, x = drv, y = hwy, geom = "boxplot", colour = drv)
 data(mpg)
 mpg
 
+# 패키지 정보
 ?ggplot2
 help(qplot)

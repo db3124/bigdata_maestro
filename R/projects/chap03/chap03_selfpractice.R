@@ -6,5 +6,5 @@ score
 mean(score)
 
 # Q3 전체 평균 변수 만들고 출력
-score_mean <- mean(score)
-score_mean
+mean_score <- mean(score)
+mean_score
