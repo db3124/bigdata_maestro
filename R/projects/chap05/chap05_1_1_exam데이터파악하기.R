@@ -12,6 +12,8 @@ tail(exam, 10)
 
 # 뷰어창에서 데이터 확인. V 대문자인 것 주의
 View(exam)
+
+# 함수의 중첩
 View(head(exam))
 View(tail(exam))
 
