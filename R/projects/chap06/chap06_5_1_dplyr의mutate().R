@@ -6,7 +6,10 @@ exam %>% mutate(total = math + english + science,
 
 
 # ifelse 이용하여 파생변수 만들기
-exam %>% mutate(test = ifelse(math >= 70, "pass", "fail")) %>% head
+# head뒤에 넣을 파라미터가 없으면 () 생략 가능
+exam %>%
+  mutate(test = ifelse(math >= 70, "pass", "fail")) %>%
+  head
 
 # arrange로 정렬하고 출력
 exam %>%

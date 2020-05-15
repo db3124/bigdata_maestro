@@ -10,7 +10,8 @@ my_mpg <- my_mpg %>% mutate(avg = total / 2)
 my_mpg %>% arrange(desc(avg)) %>% head(3)
 
 # Q4 원본 데이터를 이용해 Q1~Q3을 하나로 연결된 dplyr 구문으로 만들어 실행
-mpg %>%
+as.data.frame(ggplot2::mpg) %>%
   mutate(total = cty + hwy, avg = (cty + hwy) / 2) %>%
   arrange(desc(avg)) %>% 
-  head(3)
+  head(3) %>% 
+  View
