@@ -6,10 +6,12 @@ var1
 var1[1]
 var1[3] + var1[5]
 
+# 4번째 요소 값 바꾸기
 var1[4] <- 11
 var1[4]
-
 var1
+
+# 6번째 요소 추가
 var1[6] <- 22
 
 var1[3:5]
@@ -20,9 +22,8 @@ var2
 
 var3 <- c(4, 7:9)
 var3
-typeof(var3)
+typeof(var3) # double
 
 var3 <- c(4, 7:9, "apple")
 var3
-typeof(var3) # 모든 숫자가 문자로 바뀜
-
+typeof(var3) # character. 모든 숫자가 문자로 바뀜
