@@ -35,7 +35,6 @@ total2 <- full_join(test3, test4, by = "id")
 total2
 
 # 공통된 속성의 열이름이 다를 때: c()에 넣어서 지정
-library(dplyr)
 test1 <- data.frame(id1 = c(1:5),
                     midterm = c(60, 80, 70, 90, 85))
 test1
