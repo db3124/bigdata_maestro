@@ -18,6 +18,7 @@ df_midterm <- data.frame(english, math, class)
 df_midterm
 
 # 4. 분석하기: 평균 구하기
+# $: 데이터 프레임 안의 변수 지정
 mean(df_midterm$english)
 mean(df_midterm$math)
 

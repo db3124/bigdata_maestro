@@ -5,6 +5,6 @@ saveRDS(df_midterm, file = "df_midterm.rds")
 rm(df_midterm)
 df_midterm
 
-# 복원
+# 변수 삭제 후 복원
 df_midterm <- readRDS("df_midterm.rds")
 df_midterm

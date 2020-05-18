@@ -1,5 +1,5 @@
 # Q1 데이터 프레임 생성
-goods <- c("사과", "딸기", "수박")
+goods <- c("apple", "strawberry", "watermelon")
 price <- c(1800, 1500, 3000)
 sales_volume <- c(24, 38, 13)
 

@@ -3,11 +3,11 @@ exam <- read.csv("./res/csv_exam.csv")
 exam
 
 # 데이터 앞부분 출력
-head(exam)
+head(exam) # 6행까지
 head(exam, 10)
 
 # 데이터 뒷부분 출력
-tail(exam)
+tail(exam) # 6행까지
 tail(exam, 10)
 
 # 뷰어창에서 데이터 확인. V 대문자인 것 주의
