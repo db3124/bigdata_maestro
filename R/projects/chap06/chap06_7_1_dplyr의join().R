@@ -14,29 +14,41 @@ total <- inner_join(test1, test2, by = "id")
 total
 
 # 차집합이 있을 때
-test1 <- data.frame(id = c(1:5),
+test3 <- data.frame(id = c(1:5),
+                    midterm = c(60, 80, 70, 90, 85))
+test3
+
+test4 <- data.frame(id = c(2:6),
+                    finterm = c(70, 83, 65, 95, 80))
+test4
+
+total2 <- inner_join(test3, test4, by = "id")
+total2
+
+total2 <- left_join(test3, test4, by = "id")
+total
+
+total2 <- right_join(test3, test4, by = "id")
+total2
+
+total2 <- full_join(test3, test4, by = "id")
+total2
+
+# 공통된 속성의 열이름이 다를 때: c()에 넣어서 지정
+library(dplyr)
+test1 <- data.frame(id1 = c(1:5),
                     midterm = c(60, 80, 70, 90, 85))
 test1
 
-test2 <- data.frame(id = c(2:6),
+test2 <- data.frame(id2 = c(1:5),
                     finterm = c(70, 83, 65, 95, 80))
 test2
 
-total <- inner_join(test1, test2, by = "id")
-total
-
-total <- left_join(test1, test2, by = "id")
-total
-
-total <- right_join(test1, test2, by = "id")
-total
-
-total <- full_join(test1, test2, by = "id")
-total
+inner_join(test1, test2, by = c("id1" = "id2"))
 
 # bind_cols(test1, test2)
 
-# exam 뎅터넷, 반별 담임교사 명단
+# exam 데이터넷, 반별 담임교사 명단
 name <- data.frame(class = c(1:5),
                    teacher = c("kim", "lee", "park", "choi", "jung"))
 name
@@ -67,3 +79,4 @@ v4 <- Inf
 v5 <- -Inf
 
 10 / 0
+
