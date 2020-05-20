@@ -29,8 +29,9 @@ summary(welfare$income)
 
 qplot(welfare$income) + xlim(0, 1000)
 
-# 정상범위: 1~9998
-welfare$income <- ifelse(welfare$income %in% c(0, 9999), NA, welfare$income)
+# 정상범위: 1~9998. 이상치 처리
+welfare$income <- ifelse(welfare$income %in% c(0, 9999),
+                         NA, welfare$income)
 table(is.na(welfare$income))
 
 sex_income <- welfare %>%
@@ -42,7 +43,8 @@ sex_income <- welfare %>%
 
 sex_income
 
-ggplot(data = sex_income2, aes(x = sex, y = mean_income)) + geom_col(fill = "blue")
+ggplot(data = sex_income, aes(x = sex, y = mean_income)) +
+  geom_col(fill = c("blue", "red"))
 
 # ggplot(data = welfare, aes(x = sex, y = income, color = sex)) + geom_boxplot()
 

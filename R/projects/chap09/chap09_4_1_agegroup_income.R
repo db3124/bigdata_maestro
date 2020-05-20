@@ -1,5 +1,7 @@
 # income의 NA 처리
-welfare$income <- ifelse(welfare$income %in% c(0, 9999), NA, welfare$income)
+welfare$income <- ifelse(welfare$income %in% c(0, 9999),
+                         NA, welfare$income)
+
 welfare_income <- welfare %>%
   filter(!is.na(income))
 
@@ -10,7 +12,7 @@ welfare_income <- welfare_income %>%
   mutate(ageg = ifelse(age < 30, "twenties",
                        ifelse(age < 40, "thirties",
                               ifelse(age < 50, "forties",
-                                     ifelse(age < 60, "fifties", "the others")))))
+                                     ifelse(age < 60, "fifties", "the older")))))
 
 table(welfare_income$ageg)            
 
@@ -24,5 +26,6 @@ ageg_income <- welfare_income %>%
 ageg_income
 
 ggplot(data = ageg_income, aes(x = ageg, y = mean_income)) +
-  geom_col() +
-  scale_x_discrete(limits = c("twenties", "thirties", "forties", "fifties", "the others"))
+  geom_col(fill = c(1:5)) +
+  scale_x_discrete(limits = c("twenties", "thirties",
+                              "forties", "fifties", "the older"))

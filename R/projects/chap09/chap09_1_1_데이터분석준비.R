@@ -46,5 +46,16 @@ welfare <- raw_welfare %>%
          code_job = h10_eco9,
          code_region = h10_reg7)
 
+#
+welfare <- raw_welfare %>% 
+  rename(sex = h10_g3,
+         birth = h10_g4,
+         marriage = h10_g10,
+         religion = h10_g11,
+         income = p1002_8aq1,
+         code_jrob = h10_eco9,
+         code_region = h10_reg7) %>% 
+  select(sex, birth, marriage, religion, income, code_job, code_region)
+
 View(head(welfare))
 
