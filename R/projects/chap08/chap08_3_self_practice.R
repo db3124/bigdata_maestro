@@ -30,6 +30,7 @@ ggplot(data = df_class,
   geom_col() +
   xlab("class")
 
+# x, y축 속성 모두 있을 때 geom_bar()로 그래프 그리기
 ggplot(data = df_class, 
        aes(x = reorder(class, -count), y = count)) +
   geom_bar(stat = "identity")
