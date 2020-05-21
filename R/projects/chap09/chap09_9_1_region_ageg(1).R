@@ -1,15 +1,15 @@
-# ì§€ì—­ë³„ ì—°ë ¹ëŒ€ ë¹„ìœ¨
-# 1. ë³€ìˆ˜ ê²€í†  ë° ì „ì²˜ë¦¬
-# 1-1. ì§€ì—­
-# ê²€í† 
+# ì§€?—­ë³? ?—°? ¹??€ ë¹„ìœ¨
+# 1. ë³€?ˆ˜ ê²€?†  ë°? ? „ì²˜ë¦¬
+# 1-1. ì§€?—­
+# ê²€?† 
 class(welfare$code_region)
 table(welfare$code_region)
 
-# ì „ì²˜ë¦¬
+# ? „ì²˜ë¦¬
 list_region <- data.frame(code_region = c(1:7),
-                          region = c("ì„œìš¸", "ìˆ˜ë„ê¶Œ(ì¸ì²œ/ê²½ê¸°)", "ë¶€ì‚°/ê²½ë‚¨/ìš¸ì‚°",
-                                     "ëŒ€êµ¬/ê²½ë¶", "ëŒ€ì „/ì¶©ë‚¨", "ê°•ì›/ì¶©ë¶",
-                                     "ê´‘ì£¼/ì „ë‚¨/ì „ë¶/ì œì£¼ë„"))
+                          region = c("?„œ?š¸", "?ˆ˜?„ê¶?(?¸ì²?/ê²½ê¸°)", "ë¶€?‚°/ê²½ë‚¨/?š¸?‚°",
+                                     "??€êµ?/ê²½ë¶", "??€? „/ì¶©ë‚¨", "ê°•ì›/ì¶©ë¶",
+                                     "ê´‘ì£¼/? „?‚¨/? „ë¶?/? œì£¼ë„"))
 
 list_region
 
@@ -20,10 +20,10 @@ welfare_region <- welfare %>%
 View(welfare_region)
 table(is.na(welfare_region$code_region))
 table(is.na(welfare_region$region))
-# 1-2. ì—°ë ¹ëŒ€
+# 1-2. ?—°? ¹??€
 
-# 2. ë³€ìˆ˜ ê°„ ê´€ê³„ ë¶„ì„
-# 2-1. ì§€ì—­ë³„ ì—°ë ¹ëŒ€ ë¹„ìœ¨í‘œ ë§Œë“¤ê¸°
+# 2. ë³€?ˆ˜ ê°? ê´€ê³? ë¶„ì„
+# 2-1. ì§€?—­ë³? ?—°? ¹??€ ë¹„ìœ¨?‘œ ë§Œë“¤ê¸?
 region_ageg <- welfare_region %>%
   group_by(region, ageg) %>% 
   summarise(n = n()) %>% 
@@ -32,13 +32,13 @@ region_ageg <- welfare_region %>%
 
 region_ageg 
 
-# 2-2. ê·¸ë˜í”„ ë§Œë“¤ê¸°
-#ì§€ì—­ë³„ ì¸êµ¬
+# 2-2. ê·¸ë˜?”„ ë§Œë“¤ê¸?
+#ì§€?—­ë³? ?¸êµ
 ggplot(data = region_ageg, aes(x = reorder(region, n), y = n))+
   geom_col() +
   coord_flip()
 
-# ì§€ì—­ë³„ ì—°ë ¹ëŒ€ë³„ ê·¸ë˜í”„
+# ì§€?—­ë³? ?—°? ¹??€ë³? ê·¸ë˜?”„
 ggplot(data = region_ageg, aes(x = region, y = pct, fill = ageg)) +
   geom_col() +
   coord_flip()

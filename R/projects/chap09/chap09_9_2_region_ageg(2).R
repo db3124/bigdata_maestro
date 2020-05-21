@@ -1,4 +1,4 @@
-# ë…¸ë…„ì¸µ ë¹„ìœ¨ì´ ë†’ì€ ìˆœì„œëŒ€ë¡œ ë§‰ëŒ€ ì •ë ¬
+# ?…¸?…„ì¸? ë¹„ìœ¨?´ ?†’??€ ?ˆœ?„œ??€ë¡? ë§‰ë?€ ? •?
 list_older_old <- region_ageg %>% 
   filter(ageg == "the older") %>% 
   arrange(pct)
@@ -15,22 +15,22 @@ ggplot(data = region_ageg, aes(x = region, y = pct, fill = ageg)) +
   scale_x_discrete(limits = order)
 
 # ===========================================================
-# ì—°ë ¹ëŒ€ ìˆœìœ¼ë¡œ ë§‰ëŒ€ ìƒ‰ ë‚˜ì—´í•˜ê¸°
+# ?—°? ¹??€ ?ˆœ?œ¼ë¡? ë§‰ë?€ ?ƒ‰ ?‚˜?—´?•˜ê¸?
 class(region_ageg$ageg)
 
-# ë²¡í„°í˜• ë¬¸ìì—´ì´ê¸° ë•Œë¬¸ì— levelì´ ì—†ìŒ
+# ë²¡í„°?˜• ë¬¸ì?—´?´ê¸? ?•Œë¬¸ì— level?´ ?—†?Œ
 levels(region_ageg$ageg)
 
-# ë ˆë²¨ì„ ë§Œë“¤ê¸° ìœ„í•´ íŒ©í„°í˜•ìœ¼ë¡œ ë°”ê¿ˆ
+# ? ˆë²¨ì„ ë§Œë“¤ê¸? ?œ„?•´ ?Œ©?„°?˜•?œ¼ë¡? ë°”ê¿ˆ
 region_ageg$ageg <- factor(region_ageg$ageg,
                            level = c("the older", "fifties",
                                      "forties", "thirties", "twenties"))
-# ë ˆë²¨ ìˆœì„œë¥¼ ì§€ì •í•´ì¤Œ. ì§€ì •í•˜ì§€ ì•Šìœ¼ë©´ ë¬¸ìì—´ì˜ í¬ê¸°ëŒ€ë¡œ ìë™ ì„¤ì •ë¨.
+# ? ˆë²? ?ˆœ?„œë¥? ì§€? •?•´ì¤?. ì§€? •?•˜ì§€ ?•Š?œ¼ë©? ë¬¸ì?—´?˜ ?¬ê¸°ë?€ë¡? ??™ ?„¤? •?¨.
 
 class(region_ageg$ageg)
 levels(region_ageg$ageg)
 
-# ê·¸ë˜í”„ ê·¸ë¦¬ê¸°
+# ê·¸ë˜?”„ ê·¸ë¦¬ê¸?
 ggplot(data = region_ageg, aes(x = region, y = pct, fill = ageg)) +
   geom_col() +
   coord_flip() +
