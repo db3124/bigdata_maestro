@@ -1,1 +1,0 @@
-https://www.koweps.re.kr:442/data/data/list.do 에서 다운로드
