@@ -1,0 +1,25 @@
+# Open JDK 다운로드
+1. http://jdk.java.net/
+1-1. 8버전 다운로드 -> [Windows 10 i586 Java Development Kit (md5) 92 MB]
+1-2. [C:\BigData] 경로에 압축 풀기 -> C:/BigData/jdk1.8.0_251
+1-3. JDK 설치 완료
+
+2. https://www.oracle.com/java/technologies/
+2-1. Java SE 8u251
+2-2. 64bit로 다운로드 후 설치
+2-3. C:/BigData/jdk1.8.0_251
+
+# 환경변수 설정
+# 내컴퓨터 - 마우스 오른쪽 버튼 [속성] - 고급 시스템 설정 - [고급] 탭 - 환경변수
+# 사용자 변수(그 사용자)보다 시스템 변수(모든 사용자)에 설정함. 모든 사용자가 사용할 수 있게!
+1. JANA_HOME
+1-1. C:/BigData/jdk1.8.0_251
+
+2. Path: 기존에 있는 Path 환경변수에 새로만들기
+2-1. C:/BigData/jdk1.8.0_251/bin
+2-2. 추가한 후 위로 이동으로 눌러서 가장 위로 올리기
+
+# JDK 잘 설치되었는지 확인
+cmd 창에서,
+1. javac -version (자바 컴파일러 버전)
+2. java -version (자바 실행기(VM) 버전)

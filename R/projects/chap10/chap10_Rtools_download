@@ -1,0 +1,7 @@
+# Rtools 다운로드
+1. 경로
+https://cran.r-project.org
+-> CRAN -> Mirrors -> 영남대학교 -> Download R for Windows ->
+Rtools -> R 버전에 맞는 Rtools 다운로드(Rtools3.5)
+
+2. Add~ PATH 체크하기
