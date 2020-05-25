@@ -1,6 +1,7 @@
-# spss 로드를 위한 패키지 설치
+# 필요 패키지 로드
 library(haven)
 library(dplyr)
+library(ggplot2)
 
 path = file.path("./res/koweps_hpwc14_2019_beta1.sav")
 dataset = read_sav(path)
