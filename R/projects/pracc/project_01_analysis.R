@@ -29,7 +29,7 @@ my_data$age <- 2019 - my_data$age + 1
 
 # 연령대 변수 만들기
 my_data <- my_data %>%
-  mutate(ageg = ifelse(age >= 50, "고령자층", "그외"))
+  mutate(ageg = ifelse(age >= 65, "고령자층", "그외"))
 
 # 최종학력 변수값 데이터프레임 생성
 edu_group <- data.frame(edu = c(1:5),
@@ -45,8 +45,6 @@ my_data <- my_data %>%
 my_data$income_tot <- sum(my_data$income_reg + my_data$income_temp +
                             my_data$income_emp + my_data$income_sec +
                             my_data$income_agri, na.rm = T)
-
-my_data <- my_data
 
 # 필요한 변수만 골라 새로운 데이터 프레임 생성
 fin_data <- my_data %>% 
@@ -66,5 +64,4 @@ ageg_edu <- fin_data %>%
   mutate(tot = sum(cnt))
 
 # 연령대 - 소득
-summary()
 
