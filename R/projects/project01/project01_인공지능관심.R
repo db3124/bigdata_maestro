@@ -1,7 +1,10 @@
 # 1. 패키지 로드
 library(ggplot2)
 library(dplyr)
+<<<<<<< HEAD
 library(RColorBrewer)
+=======
+>>>>>>> 2c18c65d150caa7b0cdce5df6ac5d52631781f20
 
 # 2. csv 파일 불러오기
 raw_data <- read.csv("./res/2019DATA_7장노년_KEY작업.csv",
