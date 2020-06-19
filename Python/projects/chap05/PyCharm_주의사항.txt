@@ -1,0 +1,12 @@
+PyCharm은 프로젝트 만들 때마다 실행환경 따로 설정
+->공통 실행환경을 만들어야 함
+
+Location
+<C:\BigData\projects\Py_projects\chap05\>
+
+existing interpreter
+->
+virtualenv environment
+->
+<C:\BigData\Python38\python.exe> 선택
+<make available to all projects> 체크
