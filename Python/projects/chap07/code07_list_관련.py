@@ -11,7 +11,7 @@ lst
 # 2. sort()
 lst2 = ['mango', 'banana', 'strawberry']
 
-# sort한 것을 새롭게 저장하지 않았다. 알파벳 오름차순 정렬
+# sort한 것을 새롭게 저장하지 않았다. 크기순 정렬
 lst2.sort()
 
 # 역순
@@ -22,7 +22,7 @@ lst2.sort(key = len)
 
 lst2.sort(key = len, reverse = True)
 
-# 3. reverse()
+# 3. reverse(): 정렬과 관계없이 현재 순서의 반대로
 lst2.reverse()
 
 # 4. index()

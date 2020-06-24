@@ -21,5 +21,5 @@ print(float(True), float('1234'), float('3.14'))
 print(bool(10), bool(0), bool(-3.14), bool(0.0))
 print(bool('apple'), bool(''))
 
-# str() 변환함수: 모든 값을 변활할 수 있다.
+# str() 변환함수: 모든 값을 변환할 수 있다.
 print(str(10), str(0), str(-3.14), str(0.0), str(True))

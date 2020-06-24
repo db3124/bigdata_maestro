@@ -3,7 +3,7 @@ startNum = int(input('시작 숫자를 입력하세요(2이상): '))
 endNum = int(input('끝 숫자를 입력하세요(2이상): '))
 
 
-'''accum = 0
+accum = 0
 
 for i in range(startNum, endNum + 1):
     lst = range(2, i)
@@ -15,5 +15,4 @@ for i in range(startNum, endNum + 1):
         else:
             accum += i
 
-print(accum)'''
-
+print(accum)
