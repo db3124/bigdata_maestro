@@ -1,0 +1,18 @@
+1. 설치경로
+C:\BigData\anaconda3
+
+2. just me
+
+3. add to path -> 하면 안 됨
+
+4. 맨 마지막 2개 체크 해제
+
+5. figures 폴더 만들기
+C:\BigData\projects\myPyCode\figures
+
+6. Spyder의 PYTHONPATH Manager에 환경변수 등록
+
+7. 아나콘타 프롬프트
+cd C:\BigData\projects\myPyCode
+jupyter notebook
+-> 명령창 닫으면 서버가 죽음
