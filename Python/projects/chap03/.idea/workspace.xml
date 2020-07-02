@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="306a75cb-bfb1-4692-83ec-9a2b31300f9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01/self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/code08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/code08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/practice01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/practice01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/practice02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/practice02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02/self01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/self01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chap03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chap03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code01_형식문자1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code01_형식문자1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code02_형식문자2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code02_형식문자2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code03_format().py" beforeDir="false" afterPath="$PROJECT_DIR$/code03_format().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code04_이스케이프.py" beforeDir="false" afterPath="$PROJECT_DIR$/code04_이스케이프.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code05_변수1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code05_변수1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code06_진수1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code06_진수1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code07_문자열.py" beforeDir="false" afterPath="$PROJECT_DIR$/code07_문자열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code08_변수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code08_변수2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code09_변수3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code09_변수3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code10_진수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/code10_진수2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code11_형변환함수.py" beforeDir="false" afterPath="$PROJECT_DIR$/code11_형변환함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code12_반올림버림프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/code12_반올림버림프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code13_del_변수명.py" beforeDir="false" afterPath="$PROJECT_DIR$/code13_del_변수명.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac2.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/chap04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/chap04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code01_동전교환프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code01_동전교환프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code02_동전교환프로그램2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code02_동전교환프로그램2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code03_동전교환프로그램3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code03_동전교환프로그램3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code03_동전교환프로그램4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code03_동전교환프로그램4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code04_주행시간측정프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code04_주행시간측정프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code05_윤년계산프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code05_윤년계산프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code06_거북이프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code06_거북이프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code07_문자열비교.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code07_문자열비교.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code08_비트연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code08_비트연산자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code09_연산자우선순위.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code09_연산자우선순위.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code10_산술연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code10_산술연산자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code11_관계연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code11_관계연산자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code12_논리연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code12_논리연산자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/code13_대입연산자.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/code13_대입연산자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04/self.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/chap05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/chap05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/PyCharm_주의사항.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/PyCharm_주의사항.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code01_if문1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code01_if문1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code02_if문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code02_if문2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code03_if문3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code03_if문3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code04_if문4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code04_if문4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code05_if문5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code05_if문5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code06_if문6_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code06_if문6_turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code06_가위바위보.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code06_가위바위보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code07_가위바위보2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code07_가위바위보2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code08_월의마지막일자반환프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code08_월의마지막일자반환프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code09_월의마지막일자반환프로그램2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code09_월의마지막일자반환프로그램2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code10_전기요금계산프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code10_전기요금계산프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code11_전기요금계산프로그램2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code11_전기요금계산프로그램2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code12_if문응용.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code12_if문응용.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code13_if문응용2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code13_if문응용2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/code14_if문응용3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/code14_if문응용3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/practice2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/practice2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/self1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/self1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/self2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/self2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/chap06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.idea/chap06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code01_range().py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code01_range().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code02_print().py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code02_print().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code03_구구단출력1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code03_구구단출력1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code04_구구단출력2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code04_구구단출력2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code05_숫자더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code05_숫자더하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code06_약수구하는프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code06_약수구하는프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code07_약수구하는프로그램2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code07_약수구하는프로그램2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code08_중첩for문.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code08_중첩for문.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code09_구구단출력3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code09_구구단출력3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code10_구구단출력4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code10_구구단출력4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code11_구구단출력5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code11_구구단출력5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code12_구구단출력6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code12_구구단출력6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code13_구구단출력7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code13_구구단출력7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code14_구구단출력8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code14_구구단출력8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code15_구구단출력9.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code15_구구단출력9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code16_print(end=).py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code16_print(end=).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code17_가위바위보프로그램.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code17_가위바위보프로그램.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code18_while1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code18_while1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code19_while2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code19_while2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code20_while_가위바위보.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code20_while_가위바위보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code21_while_가위바위보2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code21_while_가위바위보2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code22_while_가위바위보3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code22_while_가위바위보3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code23_while_가위바위보4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code23_while_가위바위보4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code24_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code24_break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code25_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code25_continue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code26_유니코드.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code26_유니코드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/code27_마름모꼴별출력.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/code27_마름모꼴별출력.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/chap07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/chap07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code01_list1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code01_list1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code02_list2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code02_list2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code03_list3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code03_list3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code04_list4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code04_list4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code05_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code06_리스트값변경.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code06_리스트값변경.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code07_list_관련.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code07_list_관련.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/code08_list_관련_연습.py" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/code08_list_관련_연습.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_1_변수만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_1_변수만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_2_변수명생성규칙.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_2_변수명생성규칙.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_3_c()로변수만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_3_c()로변수만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_4_seq()로변수만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_4_seq()로변수만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_5_문자로된변수만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_1_5_문자로된변수만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_2_1_숫자를다루는함수.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_2_1_숫자를다루는함수.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_2_2_문자를다루는함수.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_2_2_문자를다루는함수.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_3_1_패키지이해하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_3_1_패키지이해하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_3_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap03/chap03_3_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_2_1_데이터프레임만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_2_1_데이터프레임만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_1_외부데이터이용_xlsx(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_1_외부데이터이용_xlsx(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_2_외부데이터이용_xlsx(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_2_외부데이터이용_xlsx(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_3_외부데이터이용_xlsx(3).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_3_외부데이터이용_xlsx(3).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_4_외부데이터이용_csv(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_4_외부데이터이용_csv(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_5_외부데이터이용_csv(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_5_외부데이터이용_csv(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_6_외부데이터이용_rds(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/chap04_3_6_외부데이터이용_rds(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/df_midterm.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/df_midterm.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/res/csv_exam.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/res/csv_exam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap04/res/csv_exam_novar.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap04/res/csv_exam_novar.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_1_exam데이터파악하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_1_exam데이터파악하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_2_mpg데이터파악하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_2_mpg데이터파악하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_3_iris데이터파악하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_1_3_iris데이터파악하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_2_1_변수명바꾸기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_2_1_변수명바꾸기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_1_연산자.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_1_연산자.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_1_연산자정리" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_1_연산자정리" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_2_연산자로윤년구하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_2_연산자로윤년구하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_3_파생변수만들기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_3_파생변수만들기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_4_조건문활용파생변수.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_4_조건문활용파생변수.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_5_중첩조건문.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_3_5_중첩조건문.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_analysis_challenge.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/chap05_analysis_challenge.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap05/res/csv_exam.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap05/res/csv_exam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_2_1_dplyr의filter().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_2_1_dplyr의filter().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_3_1_dplyr의select().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_3_1_dplyr의select().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_3_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_3_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_4_1_dplyr의arrange().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_4_1_dplyr의arrange().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_4_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_4_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_5_1_dplyr의mutate().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_5_1_dplyr의mutate().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_5_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_5_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_1_dplyr로요약하기(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_1_dplyr로요약하기(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_2_dplyr로요약하기(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_2_dplyr로요약하기(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_6_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_1_dplyr의join().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_1_dplyr의join().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_2_dplyr의bind_rows().R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_2_dplyr의bind_rows().R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_7_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_analysis_challenge.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/chap06_analysis_challenge.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap06/res/csv_exam.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap06/res/csv_exam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_1_결측치찾기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_1_결측치찾기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_2_결측치제거.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_2_결측치제거.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_3_함수의결측치제외기능이용.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_3_함수의결측치제외기능이용.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_4_평균값으로결측치대체.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_4_평균값으로결측치대체.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_1_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_1_이상치제거하기_오류.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_1_이상치제거하기_오류.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_2_이상치제거하기_극단값.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_2_이상치제거하기_극단값.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/chap07_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap07/res/csv_exam.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap07/res/csv_exam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_1_ggplot2_point(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_1_ggplot2_point(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_2_ggplot2_point(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_2_ggplot2_point(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_1_ggplot2_bar.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_1_ggplot2_bar.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_2_ggplot2_col.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_2_ggplot2_col.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_3_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_4_1_ggplot2_line.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_4_1_ggplot2_line.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_4_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_4_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_5_1_ggplot2_line.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_5_1_ggplot2_line.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_5_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_5_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_histogram.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap08/chap08_histogram.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_1_1_데이터분석준비.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_1_1_데이터분석준비.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_2_1_sex_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_2_1_sex_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_3_1_birth_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_3_1_birth_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_4_1_agegroup_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_4_1_agegroup_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_5_1_ageg_sex_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_5_1_ageg_sex_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_1_job_income(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_1_job_income(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_2_job_income(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_2_job_income(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_practice(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_practice(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_practice(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_6_practice(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_7_1_sex_job(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_7_1_sex_job(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_7_2_sex_job(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_7_2_sex_job(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_8_1_religion_divorce.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_8_1_religion_divorce.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_8_2_ageg_religion_divorce.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_8_2_ageg_religion_divorce.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_9_1_region_ageg(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_9_1_region_ageg(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_9_2_region_ageg(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_9_2_region_ageg(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_factor.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/chap09_factor.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap09/res/Koweps_hpc10_2015_beta1.sav.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap09/res/Koweps_hpc10_2015_beta1.sav.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_1_package_install.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_1_package_install.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_2_lyrics_text_mining.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_2_lyrics_text_mining.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_3_lyrics_word_cloud.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_1_3_lyrics_word_cloud.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_2_1_twitter_text_mining.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_2_1_twitter_text_mining.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_2_2_twitter_graph_cloud.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_2_2_twitter_graph_cloud.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_JDK_download" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_JDK_download" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_Rtools_download" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/chap10_Rtools_download" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/res/hiphop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/res/hiphop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap10/res/twitter.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap10/res/twitter.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_1_1_package_install.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_1_1_package_install.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_1_2_crime_rate.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_1_2_crime_rate.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_1_korea_pop(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_1_korea_pop(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_2_korea_pop(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_2_korea_pop(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_3_korea_tbc.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/chap11_2_3_korea_tbc.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap11/usa_murder.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap11/usa_murder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap12/chap12.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap12/chap12.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_1_1_plotly.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_1_1_plotly.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_2_1_dygraphs(1).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_2_1_dygraphs(1).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_2_1_dygraphs(2).R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap12/chap12_2_1_dygraphs(2).R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap13/chap13.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap13/chap13.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap13/chap13_2_1_t_test.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap13/chap13_2_1_t_test.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap13/chap13_3_1_correlation.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap13/chap13_3_1_correlation.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap14/chap14.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap14/chap14.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap14/r_markdown.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap14/r_markdown.Rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_1_1_데이터추출하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_1_1_데이터추출하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_1_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_1_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_1_num_type.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_1_num_type.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_2_date_type.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_2_date_type.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_3_data_str.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_3_data_str.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_self_practice.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/chap15_2_self_practice.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/chap15/res/csv_exam.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/chap15/res/csv_exam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/easy_r/easy_r.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/easy_r/easy_r.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/easy_r/script1.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/easy_r/script1.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/easy_r/script2.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/easy_r/script2.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_1_데이터분석준비하기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_1_데이터분석준비하기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_2_변수검토및전처리.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_2_변수검토및전처리.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_3_변수명바꾸기.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_3_변수명바꾸기.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_4_politics_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_4_politics_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_5_politics_ageg.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_5_politics_ageg.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_6_ageg_income.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_6_ageg_income.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_color" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_color" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_어려웠던점" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_어려웠던점" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_주제선정" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/01_주제선정" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/mini_project01.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/mini_project01.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/mini_project01/res/(2019년 14차 한국복지패널조사) 데이터(beta1)_spss/14차 데이터파일설명(beta1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/mini_project01/res/(2019년 14차 한국복지패널조사) 데이터(beta1)_spss/14차 데이터파일설명(beta1).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/5개구고령층인구.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/5개구고령층인구.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01.Rproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01.Rproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_1인가구_인터넷이용율.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_1인가구_인터넷이용율.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_5개구_고령층_인구.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_5개구_고령층_인구.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_t_검정.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_t_검정.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_디지털정보격차.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_디지털정보격차.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_디지털조력자.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_디지털조력자.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_생활편의시설.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_생활편의시설.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_스마트폰활용_못하는_이유.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_스마트폰활용_못하는_이유.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_인공지능관심.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_인공지능관심.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_자원봉사참여율.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_자원봉사참여율.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project01_정보화교육_관심_과정.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project01_정보화교육_관심_과정.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project_01_교육과정_워드클라우드.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project_01_교육과정_워드클라우드.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/project_01_독거노인추이.R" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/project_01_독거노인추이.R" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/2019DATA_7장노년_KEY작업.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/2019DATA_7장노년_KEY작업.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/pick_cnt.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/pick_cnt.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/pick_freq.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/pick_freq.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/교육과정.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/교육과정.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/생활편의시설.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/생활편의시설.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화역량수준.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화역량수준.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화접근수준.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화접근수준.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화종합수준.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화종합수준.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화활용수준.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/projects/project01/res/일반국민_대비_취약계층_디지털정보화활용수준.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../R/references/교재목차.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../R/references/교재목차.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1ddHVynWntBwdjwyoPo8JA7FhgQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306a75cb-bfb1-4692-83ec-9a2b31300f9f" name="Default Changelist" comment="" />
+      <created>1592748077742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592748077742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1592748103566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592748103566" />
+  </component>
+</project>
