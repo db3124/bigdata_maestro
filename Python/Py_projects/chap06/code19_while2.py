@@ -3,7 +3,7 @@
 '''
 
 dan = 2
-num = 0
+num = 1
 
 while num <= 9:
     while dan <= 9:

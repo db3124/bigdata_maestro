@@ -3,7 +3,7 @@ import random
 numbers = []
 
 for i in range(10):
-    numbers.append(random.randrange(0, 9))
+    numbers.append(random.randrange(0, 10))
 
 print(numbers)
 
