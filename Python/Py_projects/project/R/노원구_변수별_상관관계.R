@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(readxl)
 
-# 노원구 통합데이터파일 불러오기기 
+# 노원구 통합데이터파일 불러오기
 df_nowon <- read_excel('./res/노원구_연도별.xlsx')
 
 # 전력량과 온도 회귀
@@ -46,16 +46,12 @@ fit <- lm(kwh~`bijugeo`,data = df_nowon)
 
 summary(fit)
 
-# 전력량과 주택유형 중 연릭주택비율 회귀
+# 전력량과 주택유형 중 연립주택비율 회귀
 fit <- lm(kwh~`yeonlib`,data = df_nowon)
 
 summary(fit)
 
 # 전력량과 1인가구비율 회귀
-fit <- lm(kwh~`yeonlib`,data = df_nowon)
-
-summary(fit)
-
 fit <- lm(kwh~`one_gagu`,data = df_nowon)
 
 summary(fit)

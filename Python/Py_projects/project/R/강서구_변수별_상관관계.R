@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(readxl)
 
-# 강서구 통합데이터파일 불러오기기 
+# 강서구 통합데이터파일 불러오기 
 df_gangseo <- read_excel('./res/강서구_연도별.xlsx')
 
 # 전력량과 온도 회귀
@@ -46,7 +46,7 @@ fit <- lm(kwh~`bijugeo`,data = df_gangseo)
 
 summary(fit)
 
-# 전력량과 주택유형 중 연릭주택비율 회귀
+# 전력량과 주택유형 중 연립주택비율 회귀
 fit <- lm(kwh~`yeonlib`,data = df_gangseo)
 
 summary(fit)

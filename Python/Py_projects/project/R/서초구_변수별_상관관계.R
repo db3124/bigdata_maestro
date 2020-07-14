@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2)
 library(readxl)
 
-# 서초구 통합데이터파일 불러오기기 
+# 서초구 통합데이터파일 불러오기
 df_seocho <- read_excel('./res/서초구_연도별.xlsx')
 
 # 전력량과 온도 회귀
@@ -46,7 +46,7 @@ fit <- lm(kwh~`bijugeo`,data = df_seocho)
 
 summary(fit)
 
-# 전력량과 주택유형 중 연릭주택비율 회귀
+# 전력량과 주택유형 중 연립주택비율 회귀
 fit <- lm(kwh~`yeonlib`,data = df_seocho)
 
 summary(fit)
